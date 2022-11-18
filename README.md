@@ -1,6 +1,6 @@
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?multiline=true&width=500&height=60&lines=+Привет+Всем%2C+меня+зовут+Максим.;Я+начинающий+Web-разработчик!)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?multiline=true&width=500&height=60&lines=+Всем+Привет!+Меня+зовут+Максим.;Я+начинающий+Web-разработчик!)](https://git.io/typing-svg)
 
 </div>
 
