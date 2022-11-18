@@ -1,5 +1,7 @@
+<div align="center">
 <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="50px"/>&nbsp;
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?multiline=true&width=500&height=60&lines=+Привет+Всем%2C+меня+зовут+Максим.;Я+начинающий+Web-разработчик!)](https://git.io/typing-svg)
+</div>
 
 
 <div id="header" align="center">
