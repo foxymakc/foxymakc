@@ -18,12 +18,7 @@
 Прошёл обучение в Яндекс Практикум.<br>
 Познаю мир web-разработки.
 
-<div id="badges">
-  
- [![Linkedin Badge](https://img.shields.io/badge/-foxymakc-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/foxymakc/)](https://www.linkedin.com/in/foxymakc/)
- 
-  [![Telegram Badge](https://img.shields.io/badge/-Foxymakc-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white&link=https://t.me/foxymakc)](https://t.me/foxymakc)
-</div>
+ [![Telegram Badge](https://img.shields.io/badge/-Foxymakc-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white&link=https://t.me/foxymakc)](https://t.me/foxymakc) &nbsp; [![Linkedin Badge](https://img.shields.io/badge/-foxymakc-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/foxymakc/)](https://www.linkedin.com/in/foxymakc/)
 
 ---
 
