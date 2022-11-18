@@ -19,6 +19,8 @@
 Познаю мир web-разработки.
 
  [![Linkedin Badge](https://img.shields.io/badge/-foxymakc-blue?style=flat&logo=Linkedin&logoColor=white)](www.linkedin.com/in/foxymakc)
+ 
+  [![Telegram Badge](https://img.shields.io/badge/-Foxymakc-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white&link=https://t.me/foxymakc)](https://t.me/foxymakc)
 
 ---
 
