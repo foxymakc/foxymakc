@@ -1,16 +1,41 @@
-### Hi there 👋
+<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="50px"/>&nbsp;
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?multiline=true&width=500&height=60&lines=+Привет+Всем%2C+меня+зовут+Максим.;Я+начинающий+Web-разработчик!)](https://git.io/typing-svg)
 
-<!--
-**foxymakc/foxymakc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+<div id="header" align="center">
+  <img src="https://media2.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif?cid=790b7611cb35f4f9e5a2294ebbc2d835b1da76be118cc315&rid=giphy.gif&ct=g" />
+</div>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### :man_technologist: Обо мне :
+
+Я начиинающий Web-разработчик из Москвы
+
+Прошёл обучение в Яндекс Практикум.<br>
+Познаю мир web-разработки.
+
+ [![Linkedin Badge](https://img.shields.io/badge/-foxymakc-blue?style=flat&logo=Linkedin&logoColor=white)](www.linkedin.com/in/foxymakc)
+
+---
+
+### :hammer_and_wrench: Навыки :
+
+<div>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg" title="html" alt="html" width="40" height="40" />&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg" title="css" alt="css" width="40" height="40" />&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" title="javascript" alt="javascript" width="40" height="40" />&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" title="git" alt="git" width="40" height="40" />&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg" title="react" alt="react" width="40" height="40" />&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" title="figma" alt="figma" width="40" height="40" />&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original-wordmark.svg" title="node" alt="node" width="40" height="40" />&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/webpack/webpack-original-wordmark.svg" title="webpack" alt="webpack" width="40" height="40" />&nbsp;
+</div>
+
+---
+
+### :fire: Статистика :
+
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=foxymakc&theme=calm&hide_border=true&locale=ru)](https://git.io/streak-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=foxymakc&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
