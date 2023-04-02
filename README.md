@@ -1,6 +1,6 @@
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?multiline=true&width=500&height=60&lines=+Всем+Привет!+Меня+зовут+Максим.;Я+начинающий+Web-разработчик!)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?multiline=true&width=500&height=60&lines=+Всем+Привет!+Меня+зовут+Максим.;Я+начинающий+Frontend-разработчик!)](https://git.io/typing-svg)
 
 </div>
 
@@ -13,10 +13,10 @@
 
 ### :man_technologist: Обо мне :
 
-Я начинающий Web-разработчик из Москвы
+Я начинающий Frontend-разработчик из Москвы
 
 Прошёл обучение в Яндекс Практикум.<br>
-Познаю мир web-разработки.
+Познаю мир Frontend-разработки.
 
  [![Telegram Badge](https://img.shields.io/badge/-Foxymakc-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white&link=https://t.me/foxymakc)](https://t.me/foxymakc) &nbsp; [![Linkedin Badge](https://img.shields.io/badge/-foxymakc-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/foxymakc/)](https://www.linkedin.com/in/foxymakc/)
 
